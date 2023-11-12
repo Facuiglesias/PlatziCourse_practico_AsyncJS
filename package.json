@@ -1,0 +1,20 @@
+{
+  "name": "platzicourse_practico_asyncjs",
+  "version": "1.0.0",
+  "description": "Curso practico de conocimientos basicos, medios y avanzados de asincronismo en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facuiglesias/PlatziCourse_practico_AsyncJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facuiglesias/PlatziCourse_practico_AsyncJS/issues"
+  },
+  "homepage": "https://github.com/Facuiglesias/PlatziCourse_practico_AsyncJS#readme"
+}
